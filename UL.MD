@@ -1,1 +1,0 @@
-#Ubiquitous Language for QORE
